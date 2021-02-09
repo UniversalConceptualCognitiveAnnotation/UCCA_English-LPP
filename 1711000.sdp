@@ -1,0 +1,21 @@
+# format = ucca
+1	"	_	Punctuation	-	-	_	U	_	_	_	_	_
+2	Then	_	Word	-	-	_	L	_	_	_	_	_
+3	they	_	Word	-	-	_	A	_	_	_	_	_
+4	belong	_	Word	-	+	_	_	_	_	_	_	_
+5	to	_	Word	-	-	_	_	R	_	_	_	_
+6	me	_	Word	-	+	_	A	_	_	_	_	_
+7	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+8	because	_	Word	-	-	_	L	_	_	_	_	_
+9	I	_	Word	-	-	_	_	_	A	_	_	_
+10	was	_	Word	-	+	_	H	_	_	_	_	_
+11	the	_	Word	-	-	_	_	_	_	F	_	_
+12	first	_	Word	-	-	_	_	_	_	Q	_	_
+13	person	_	Word	-	+	_	_	_	A	_	_	_
+14	to	_	Word	-	-	_	_	_	_	_	F	_
+15	think	_	Word	-	+	_	_	_	_	E	_	_
+16	of	_	Word	-	-	_	_	_	_	_	_	R
+17	it	_	Word	-	+	_	_	_	_	_	A	_
+18	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+19	"	_	Punctuation	-	-	_	_	_	_	_	_	U
+

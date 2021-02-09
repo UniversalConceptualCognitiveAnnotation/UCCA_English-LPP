@@ -1,0 +1,12 @@
+# format = ucca
+1	"	_	Punctuation	-	-	_	_	_	U
+2	I	_	Word	-	-	_	_	_	A
+3	shall	_	Word	-	-	_	E	_	_
+4	look	_	Word	-	+	_	_	_	G
+5	as	_	Word	-	+	_	_	_	F
+6	if	_	Word	-	-	_	_	Terminal	_
+7	I	_	Word	-	-	_	_	_	A
+8	were	_	Word	-	-	_	_	_	F
+9	suffering	_	Word	-	+	_	_	_	_
+10	.	_	Punctuation	-	-	_	_	_	U
+

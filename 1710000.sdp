@@ -1,0 +1,22 @@
+# format = ucca
+1	"	_	Punctuation	-	-	_	_	_	_	_	_	U
+2	I	_	Word	-	-	_	A	_	_	_	_	_
+3	am	_	Word	-	-	_	F	_	_	_	_	_
+4	glad	_	Word	-	+	_	_	_	_	_	_	A
+5	that	_	Word	-	-	_	_	R	_	_	_	_
+6	you	_	Word	-	-	_	_	A	_	_	_	_
+7	have	_	Word	-	-	_	_	F	_	_	_	_
+8	found	_	Word	-	+	_	A	_	_	_	_	_
+9	what	_	Word	-	+	_	_	A	_	_	_	_
+10	was	_	Word	-	-	_	_	_	_	F	_	_
+11	the	_	Word	-	-	_	_	_	_	F	_	_
+12	matter	_	Word	-	+	_	_	_	E	_	_	_
+13	with	_	Word	-	-	_	_	_	_	_	R	_
+14	your	_	Word	-	-	_	_	_	_	_	E	_
+15	engine	_	Word	-	+	_	_	_	_	A	_	_
+16	,	_	Punctuation	-	-	_	_	_	_	_	_	U
+17	"	_	Punctuation	-	-	_	_	_	_	_	_	U
+18	he	_	Word	-	-	_	_	_	_	_	_	A
+19	said	_	Word	-	+	_	_	_	_	_	_	_
+20	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

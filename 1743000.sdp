@@ -1,0 +1,13 @@
+# format = ucca
+1	"	_	Punctuation	-	-	_	_	U	_
+2	Because	_	Word	-	-	_	_	L	_
+3	I	_	Word	-	-	_	_	A	A*
+4	am	_	Word	-	-	_	_	F	_
+5	about	_	Word	-	+	_	_	D	_
+6	to	_	Word	-	-	_	Terminal	_	_
+7	die	_	Word	-	+	_	_	_	_
+8	of	_	Word	-	-	_	_	L	_
+9	thirst	_	Word	-	+	_	_	H	_
+10	...	_	Punctuation	-	-	_	_	_	U
+11	"	_	Punctuation	-	-	_	_	_	U
+

@@ -1,0 +1,20 @@
+# format = ucca
+1	I	_	Word	-	-	_	A	_	_	_	_
+2	put	_	Word	-	+	_	_	_	_	_	_
+3	the	_	Word	-	-	_	_	F	_	_	_
+4	lamp	_	Word	-	+	_	A	_	_	_	_
+5	out	_	Word	-	-	_	Terminal	_	_	_	_
+6	in	_	Word	-	-	_	_	_	R	_	_
+7	the	_	Word	-	-	_	_	_	F	_	_
+8	morning	_	Word	-	+	_	T	_	_	_	_
+9	,	_	Punctuation	-	-	_	U	_	_	_	_
+10	and	_	Word	-	-	_	L	_	_	_	_
+11	in	_	Word	-	-	_	_	_	_	R	_
+12	the	_	Word	-	-	_	_	_	_	F	_
+13	evening	_	Word	-	+	_	_	_	_	_	T
+14	I	_	Word	-	-	_	_	_	_	_	A
+15	lighted	_	Word	-	+	_	H	_	_	_	_
+16	it	_	Word	-	-	_	_	_	_	_	A
+17	again	_	Word	-	-	_	_	_	_	_	D
+18	.	_	Punctuation	-	-	_	_	_	_	_	U
+

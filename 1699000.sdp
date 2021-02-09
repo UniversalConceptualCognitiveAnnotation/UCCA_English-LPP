@@ -1,0 +1,28 @@
+# format = ucca
+1	I	_	Word	-	-	_	_	A	_	_	_	_	_	_
+2	am	_	Word	-	-	_	_	F	_	_	_	_	_	_
+3	about	_	Word	-	+	_	_	D	_	_	_	_	_	_
+4	to	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_
+5	receive	_	Word	-	-	_	_	D	_	_	_	_	_	_
+6	a	_	Word	-	-	_	_	F	_	_	_	_	_	_
+7	visit	_	Word	-	+	_	_	_	_	A	_	_	_	_
+8	from	_	Word	-	-	_	_	_	R	_	_	_	_	_
+9	an	_	Word	-	-	_	_	_	F	_	_	_	_	_
+10	admirer	_	Word	-	+	_	_	A	_	_	_	_	_	_
+11	!	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+12	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+13	he	_	Word	-	-	_	_	_	_	A	_	_	_	_
+14	exclaimed	_	Word	-	+	_	_	_	_	_	_	_	_	_
+15	from	_	Word	-	-	_	_	_	_	_	R	_	_	_
+16	afar	_	Word	-	+	_	_	_	_	A	_	_	_	_
+17	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+18	when	_	Word	-	-	_	_	_	_	L	_	_	_	_
+19	he	_	Word	-	-	_	_	_	_	_	_	A	_	_
+20	first	_	Word	-	-	_	_	_	_	_	_	D	_	_
+21	saw	_	Word	-	+	_	_	_	_	H	_	_	_	_
+22	the	_	Word	-	-	_	_	_	_	_	_	_	F	_
+23	little	_	Word	-	-	_	_	_	_	_	_	_	E	_
+24	prince	_	Word	-	+	_	_	_	_	_	_	_	_	A
+25	coming	_	Word	-	+	_	_	_	_	_	_	A	_	_
+26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

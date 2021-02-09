@@ -1,0 +1,14 @@
+# format = ucca
+1	I	_	Word	-	-	_	A	_	_	_
+2	will	_	Word	-	-	_	F	_	_	_
+3	draw	_	Word	-	+	_	_	_	_	_
+4	you	_	Word	-	-	_	A	_	A*	_
+5	a	_	Word	-	-	_	_	F	_	_
+6	railing	_	Word	-	+	_	_	_	A*	_
+7	to	_	Word	-	-	_	L	_	_	_
+8	put	_	Word	-	+	_	H	_	_	_
+9	around	_	Word	-	-	_	_	_	_	R
+10	your	_	Word	-	-	_	_	_	_	E
+11	flower	_	Word	-	+	_	_	_	A	_
+12	.	_	Punctuation	-	-	_	_	_	_	U
+

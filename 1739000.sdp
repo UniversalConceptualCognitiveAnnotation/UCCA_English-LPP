@@ -1,0 +1,15 @@
+# format = ucca
+1	"	_	Punctuation	-	-	_	_	_	U	_
+2	It	_	Word	-	-	_	A	_	_	_
+3	is	_	Word	-	-	_	F	_	_	_
+4	not	_	Word	-	-	_	D	_	_	_
+5	funny	_	Word	-	+	_	_	_	A	_
+6	at	_	Word	-	+	_	D	_	_	_
+7	all	_	Word	-	-	_	_	Terminal	_	_
+8	!	_	Punctuation	-	-	_	_	_	U	_
+9	"	_	Punctuation	-	-	_	_	_	U	_
+10	said	_	Word	-	+	_	_	_	_	_
+11	the	_	Word	-	-	_	_	_	_	F
+12	lamplighter	_	Word	-	+	_	_	_	A	_
+13	.	_	Punctuation	-	-	_	_	_	_	U
+

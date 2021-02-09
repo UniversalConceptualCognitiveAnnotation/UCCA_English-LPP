@@ -1,0 +1,11 @@
+# format = ucca
+1	Volcanic	_	Word	-	-	_	A	_	_	_
+2	eruptions	_	Word	-	+	_	_	A	_	_
+3	are	_	Word	-	+	_	_	_	_	_
+4	like	_	Word	-	-	_	_	_	R	_
+5	fires	_	Word	-	+	_	_	A	_	_
+6	in	_	Word	-	-	_	_	_	_	R
+7	a	_	Word	-	-	_	_	_	_	F
+8	chimney	_	Word	-	+	_	_	_	A	_
+9	.	_	Punctuation	-	-	_	_	_	_	U
+

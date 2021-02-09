@@ -1,0 +1,10 @@
+# format = ucca
+1	But	_	Word	-	-	_	_	L
+2	his	_	Word	-	-	_	E	_
+3	planet	_	Word	-	+	_	_	A
+4	is	_	Word	-	-	_	_	F
+5	indeed	_	Word	-	-	_	_	G
+6	too	_	Word	-	-	_	_	D
+7	small	_	Word	-	+	_	_	_
+8	.	_	Punctuation	-	-	_	_	U
+

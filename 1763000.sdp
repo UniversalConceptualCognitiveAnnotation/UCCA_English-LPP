@@ -1,0 +1,11 @@
+# format = ucca
+1	Nevertheless	_	Word	-	-	_	_	L
+2	,	_	Punctuation	-	-	_	_	U
+3	he	_	Word	-	-	_	_	A
+4	still	_	Word	-	-	_	_	D
+5	had	_	Word	-	-	_	_	F
+6	some	_	Word	-	-	_	E	_
+7	more	_	Word	-	+	_	_	D
+8	questions	_	Word	-	+	_	_	_
+9	.	_	Punctuation	-	-	_	_	U
+
