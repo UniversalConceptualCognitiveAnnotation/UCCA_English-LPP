@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 1750000
+# text = So then the seventh planet was the Earth .
+1	So	_	Word	Word	_	6	L	6:L	_
+2	then	_	Word	Word	_	6	L	6:L	_
+3	the	_	Word	Word	_	5	F	5:F	_
+4	seventh	_	Word	Word	_	5	Q	5:Q	_
+5	planet	_	Word	Word	_	6	A	6:A	_
+6	was	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	Earth	_	Word	Word	_	6	A	6:A	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

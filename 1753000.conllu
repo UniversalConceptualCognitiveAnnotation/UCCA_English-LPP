@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 1753000
+# text = Then there are no people on the Earth ? "
+1	Then	_	Word	Word	_	6	L	6:L	_
+2	there	_	Word	Word	_	6	F	6:F	_
+3	are	_	Word	Word	_	6	F	6:F	_
+4	no	_	Word	Word	_	6	D	6:D	_
+5	people	_	Word	Word	_	6	A	6:A	_
+6	on	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	Earth	_	Word	Word	_	6	A	6:A	_
+9	?	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+

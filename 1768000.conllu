@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 1768000
+# text = So the little prince tamed the fox .
+1	So	_	Word	Word	_	5	L	5:L	_
+2	the	_	Word	Word	_	4	F	4:F	_
+3	little	_	Word	Word	_	4	E	4:E	_
+4	prince	_	Word	Word	_	5	A	5:A	_
+5	tamed	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	7	F	7:F	_
+7	fox	_	Word	Word	_	5	A	5:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

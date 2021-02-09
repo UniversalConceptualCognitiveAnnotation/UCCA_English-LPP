@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 1741000
+# text = " I am beginning to understand , " said the little prince .
+1	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+2	I	_	Word	Word	_	6	A	6:A	_
+3	am	_	Word	Word	_	6	F	6:F	_
+4	beginning	_	Word	Word	_	6	D	6:D	_
+5	to	_	Word	Word	_	6	F	6:F	_
+6	understand	_	Word	Word	_	9	A	9:A	_
+7	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	said	_	Word	Word	_	0	H	0:H	_
+10	the	_	Word	Word	_	12	F	12:F	_
+11	little	_	Word	Word	_	12	E	12:E	_
+12	prince	_	Word	Word	_	9	A	9:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

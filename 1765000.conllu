@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 1765000
+# text = The geographer was suddenly stirred to excitement .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	geographer	_	Word	Word	_	7	A	7:A	_
+3	was	_	Word	Word	_	7	F	7:F	_
+4	suddenly	_	Word	Word	_	7	T	7:T	_
+5	stirred	_	Word	Word	_	7	D	7:D	_
+6	to	_	Word	Word	_	7	R	7:R	_
+7	excitement	_	Word	Word	_	0	H	0:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

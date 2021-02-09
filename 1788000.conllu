@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 1788000
+# text = It means to establish ties . "
+1	It	_	Word	Word	_	2	A	2:A	_
+2	means	_	Word	Word	_	0	H	0:H	_
+3	to	_	Word	Word	_	5	F	5:F	_
+4	establish	_	Word	Word	_	5	D	5:D	_
+5	ties	_	Word	Word	_	2	A	2:A	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+

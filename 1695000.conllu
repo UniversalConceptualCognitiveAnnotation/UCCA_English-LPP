@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 1695000
+# text = Then he went on with his reflections : " I thought that I was rich , with a flower that was unique in all the world ; and all I had was a common rose .
+1	Then	_	Word	Word	_	32	L	32:L	_
+2	he	_	Word	Word	_	7	A	7:A	_
+3	went	_	Word	Word	_	7	D	7:D	_
+4	on	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	with	_	Word	Word	_	7	R	7:R	_
+6	his	_	Word	Word	_	7	F	7:F	_
+7	reflections	_	Word	Word	_	0	H	0:H	_
+8	:	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	I	_	Word	Word	_	11	A	11:A	_
+11	thought	_	Word	Word	_	7	A	7:A	_
+12	that	_	Word	Word	_	15	R	15:R	_
+13	I	_	Word	Word	_	15	A	15:A|17:A	_
+14	was	_	Word	Word	_	15	F	15:F	_
+15	rich	_	Word	Word	_	11	A	11:A	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	with	_	Word	Word	_	15	H	15:H	_
+18	a	_	Word	Word	_	19	F	19:F	_
+19	flower	_	Word	Word	_	17	A	17:A	_
+20	that	_	Word	Word	_	22	R	22:R	_
+21	was	_	Word	Word	_	22	F	22:F	_
+22	unique	_	Word	Word	_	19	E	19:E	_
+23	in	_	Word	Word	_	26	R	26:R	_
+24	all	_	Word	Word	_	26	Q	26:Q	_
+25	the	_	Word	Word	_	26	F	26:F	_
+26	world	_	Word	Word	_	22	A	22:A	_
+27	;	_	Punctuation	Punctuation	_	7	U	7:U	_
+28	and	_	Word	Word	_	32	L	32:L	_
+29	all	_	Word	Word	_	32	A	32:A	_
+30	I	_	Word	Word	_	31	A	31:A	_
+31	had	_	Word	Word	_	29	E	29:E	_
+32	was	_	Word	Word	_	7	H	7:H	_
+33	a	_	Word	Word	_	35	F	35:F	_
+34	common	_	Word	Word	_	35	E	35:E	_
+35	rose	_	Word	Word	_	32	A	32:A	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

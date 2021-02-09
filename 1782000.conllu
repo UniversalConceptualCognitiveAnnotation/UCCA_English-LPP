@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 1782000
+# text = I do not permit insubordination . "
+1	I	_	Word	Word	_	4	A	4:A	_
+2	do	_	Word	Word	_	4	F	4:F	_
+3	not	_	Word	Word	_	4	D	4:D	_
+4	permit	_	Word	Word	_	0	H	0:H	_
+5	insubordination	_	Word	Word	_	4	A	4:A	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+

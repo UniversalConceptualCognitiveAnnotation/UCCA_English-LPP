@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 1751000
+# text = The Earth is not just an ordinary planet !
+1	The	_	Word	Word	_	2	F	2:F	_
+2	Earth	_	Word	Word	_	3	A	3:A	_
+3	is	_	Word	Word	_	0	H	0:H	_
+4	not	_	Word	Word	_	3	D	3:D	_
+5	just	_	Word	Word	_	7	D	7:D	_
+6	an	_	Word	Word	_	7	F	7:F	_
+7	ordinary	_	Word	Word	_	8	E	8:E	_
+8	planet	_	Word	Word	_	3	A	3:A	_
+9	!	_	Punctuation	Punctuation	_	8	U	8:U	_
+

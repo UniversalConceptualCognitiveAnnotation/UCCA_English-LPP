@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 1723000
+# text = When you find a diamond that belongs to nobody , it is yours .
+1	When	_	Word	Word	_	13	L	13:L	_
+2	you	_	Word	Word	_	3	A	3:A	_
+3	find	_	Word	Word	_	0	H	0:H	_
+4	a	_	Word	Word	_	5	F	5:F	_
+5	diamond	_	Word	Word	_	3	A	3:A	_
+6	that	_	Word	Word	_	7	R	7:R	_
+7	belongs	_	Word	Word	_	5	E	5:E	_
+8	to	_	Word	Word	_	9	R	9:R	_
+9	nobody	_	Word	Word	_	7	A	7:A	_
+10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	it	_	Word	Word	_	13	A	13:A	_
+12	is	_	Word	Word	_	13	F	13:F	_
+13	yours	_	Word	Word	_	3	H	3:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

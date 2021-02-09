@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 1779000
+# text = For my businessman they were wealth .
+1	For	_	Word	Word	_	0	H	0:H	_
+2	my	_	Word	Word	_	3	E	3:E	_
+3	businessman	_	Word	Word	_	0	P	0:P|2:A	_
+4	they	_	Word	Word	_	6	A	6:A	_
+5	were	_	Word	Word	_	6	F	6:F	_
+6	wealth	_	Word	Word	_	1	A	1:A	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

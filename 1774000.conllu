@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 1774000
+# text = " I hunt chickens ; men hunt me .
+1	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+2	I	_	Word	Word	_	3	A	3:A	_
+3	hunt	_	Word	Word	_	0	H	0:H	_
+4	chickens	_	Word	Word	_	3	A	3:A	_
+5	;	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	men	_	Word	Word	_	7	A	7:A	_
+7	hunt	_	Word	Word	_	3	H	3:H	_
+8	me	_	Word	Word	_	7	A	7:A	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

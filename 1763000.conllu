@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 1763000
+# text = Nevertheless , he still had some more questions .
+1	Nevertheless	_	Word	Word	_	8	L	8:L	_
+2	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+3	he	_	Word	Word	_	8	A	8:A	_
+4	still	_	Word	Word	_	8	D	8:D	_
+5	had	_	Word	Word	_	8	F	8:F	_
+6	some	_	Word	Word	_	7	E	7:E	_
+7	more	_	Word	Word	_	8	D	8:D	_
+8	questions	_	Word	Word	_	0	H	0:H	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

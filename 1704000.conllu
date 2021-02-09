@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 1704000
+# text = If you ordered your people to go and throw themselves into the sea , they would rise up in revolution .
+1	If	_	Word	Word	_	20	L	20:L	_
+2	you	_	Word	Word	_	3	A	3:A	_
+3	ordered	_	Word	Word	_	0	H	0:H	_
+4	your	_	Word	Word	_	5	E	5:E	_
+5	people	_	Word	Word	_	3	A	3:A	_
+6	to	_	Word	Word	_	7	F	7:F	_
+7	go	_	Word	Word	_	3	A	3:A	_
+8	and	_	Word	Word	_	9	L	9:L	_
+9	throw	_	Word	Word	_	7	H	7:H	_
+10	themselves	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	into	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	F	13:F	_
+13	sea	_	Word	Word	_	7	A	7:A|9:A	_
+14	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+15	they	_	Word	Word	_	20	A	20:A	_
+16	would	_	Word	Word	_	20	D	20:D	_
+17	rise	_	Word	Word	_	20	D	20:D	_
+18	up	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	in	_	Word	Word	_	20	R	20:R	_
+20	revolution	_	Word	Word	_	3	H	3:H	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 1783000
+# text = Twelve and three make fifteen .
+1	Twelve	_	Word	Word	_	4	A	4:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	three	_	Word	Word	_	1	C	1:C	_
+4	make	_	Word	Word	_	0	H	0:H	_
+5	fifteen	_	Word	Word	_	4	A	4:A	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

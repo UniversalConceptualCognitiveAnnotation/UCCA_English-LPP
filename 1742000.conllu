@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 1742000
+# text = Other steps send me hurrying back underneath the ground .
+1	Other	_	Word	Word	_	2	D	2:D	_
+2	steps	_	Word	Word	_	3	A	3:A	_
+3	send	_	Word	Word	_	0	H	0:H	_
+4	me	_	Word	Word	_	3	A	3:A|5:A	_
+5	hurrying	_	Word	Word	_	3	A	3:A	_
+6	back	_	Word	Word	_	5	D	5:D	_
+7	underneath	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	F	9:F	_
+9	ground	_	Word	Word	_	5	A	5:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

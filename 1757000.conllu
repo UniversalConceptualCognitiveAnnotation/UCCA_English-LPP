@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 1757000
+# text = He fell as gently as a tree falls .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	fell	_	Word	Word	_	0	H	0:H	_
+3	as	_	Word	Word	_	2	D	2:D	_
+4	gently	_	Word	Word	_	2	D	2:D|8:D	_
+5	as	_	Word	Word	_	8	L	8:L	_
+6	a	_	Word	Word	_	7	F	7:F	_
+7	tree	_	Word	Word	_	8	A	8:A	_
+8	falls	_	Word	Word	_	2	H	2:H	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

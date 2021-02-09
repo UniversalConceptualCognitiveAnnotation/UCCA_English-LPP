@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 1733000
+# text = But you are of no use to the stars ... "
+1	But	_	Word	Word	_	6	L	6:L	_
+2	you	_	Word	Word	_	6	A	6:A	_
+3	are	_	Word	Word	_	6	F	6:F	_
+4	of	_	Word	Word	_	6	R	6:R	_
+5	no	_	Word	Word	_	6	D	6:D	_
+6	use	_	Word	Word	_	0	H	0:H	_
+7	to	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	F	9:F	_
+9	stars	_	Word	Word	_	6	A	6:A	_
+10	...	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+

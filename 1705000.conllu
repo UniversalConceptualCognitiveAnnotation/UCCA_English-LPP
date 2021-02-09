@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 1705000
+# text = The businessman suddenly realized that there was no hope of being left in peace until he answered this question .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	businessman	_	Word	Word	_	0	C	0:C|12:A	_
+3	suddenly	_	Word	Word	_	4	T	4:T	_
+4	realized	_	Word	Word	_	0	H	0:H	_
+5	that	_	Word	Word	_	9	R	9:R	_
+6	there	_	Word	Word	_	9	F	9:F	_
+7	was	_	Word	Word	_	9	F	9:F	_
+8	no	_	Word	Word	_	9	D	9:D	_
+9	hope	_	Word	Word	_	4	A	4:A	_
+10	of	_	Word	Word	_	12	R	12:R	_
+11	being	_	Word	Word	_	12	F	12:F	_
+12	left	_	Word	Word	_	9	A	9:A	_
+13	in	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	peace	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	until	_	Word	Word	_	17	L	17:L	_
+16	he	_	Word	Word	_	17	A	17:A	_
+17	answered	_	Word	Word	_	9	H	9:H	_
+18	this	_	Word	Word	_	19	E	19:E	_
+19	question	_	Word	Word	_	17	A	17:A	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 1726000
+# text = You are sure that it will not make me suffer too long ? "
+1	You	_	Word	Word	_	3	A	3:A	_
+2	are	_	Word	Word	_	3	F	3:F	_
+3	sure	_	Word	Word	_	0	H	0:H	_
+4	that	_	Word	Word	_	10	R	10:R	_
+5	it	_	Word	Word	_	10	A	10:A	_
+6	will	_	Word	Word	_	10	F	10:F	_
+7	not	_	Word	Word	_	10	D	10:D	_
+8	make	_	Word	Word	_	10	D	10:D	_
+9	me	_	Word	Word	_	10	A	10:A	_
+10	suffer	_	Word	Word	_	3	A	3:A	_
+11	too	_	Word	Word	_	12	E	12:E	_
+12	long	_	Word	Word	_	10	T	10:T	_
+13	?	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	"	_	Punctuation	Punctuation	_	12	U	12:U	_
+

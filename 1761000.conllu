@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 1761000
+# text = And the little prince went away , puzzled .
+1	And	_	Word	Word	_	8	L	8:L	_
+2	the	_	Word	Word	_	4	F	4:F	_
+3	little	_	Word	Word	_	4	E	4:E	_
+4	prince	_	Word	Word	_	0	S	0:S|8:A	_
+5	went	_	Word	Word	_	0	H	0:H	_
+6	away	_	Word	Word	_	5	D	5:D	_
+7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	puzzled	_	Word	Word	_	5	H	5:H	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

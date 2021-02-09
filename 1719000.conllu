@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 1719000
+# text = I was astonished by a sudden understanding of that mysterious radiation of the sands .
+1	I	_	Word	Word	_	7	A	7:A	_
+2	was	_	Word	Word	_	7	F	7:F	_
+3	astonished	_	Word	Word	_	7	D	7:D	_
+4	by	_	Word	Word	_	7	R	7:R	_
+5	a	_	Word	Word	_	7	F	7:F	_
+6	sudden	_	Word	Word	_	7	T	7:T	_
+7	understanding	_	Word	Word	_	0	H	0:H	_
+8	of	_	Word	Word	_	11	R	11:R	_
+9	that	_	Word	Word	_	11	E	11:E	_
+10	mysterious	_	Word	Word	_	11	D	11:D	_
+11	radiation	_	Word	Word	_	7	A	7:A	_
+12	of	_	Word	Word	_	14	R	14:R	_
+13	the	_	Word	Word	_	14	F	14:F	_
+14	sands	_	Word	Word	_	11	A	11:A	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

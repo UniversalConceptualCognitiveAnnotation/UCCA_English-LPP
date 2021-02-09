@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 1758000
+# text = She adjusted her petals one by one .
+1	She	_	Word	Word	_	2	A	2:A	_
+2	adjusted	_	Word	Word	_	0	H	0:H	_
+3	her	_	Word	Word	_	4	E	4:E	_
+4	petals	_	Word	Word	_	2	A	2:A	_
+5	one	_	Word	Word	_	2	D	2:D	_
+6	by	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	one	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

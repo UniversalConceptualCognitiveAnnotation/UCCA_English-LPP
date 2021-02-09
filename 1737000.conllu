@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 1737000
+# text = For , to conceited men , all other men are admirers .
+1	For	_	Word	Word	_	3	L	3:L	_
+2	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	to	_	Word	Word	_	0	H	0:H	_
+4	conceited	_	Word	Word	_	5	E	5:E	_
+5	men	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	all	_	Word	Word	_	9	Q	9:Q	_
+8	other	_	Word	Word	_	9	E	9:E	_
+9	men	_	Word	Word	_	11	A	11:A	_
+10	are	_	Word	Word	_	11	F	11:F	_
+11	admirers	_	Word	Word	_	3	A	3:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

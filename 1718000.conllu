@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 1718000
+# text = He merely said to me : " Water may also be good for the heart ... "
+1	He	_	Word	Word	_	3	A	3:A	_
+2	merely	_	Word	Word	_	3	D	3:D	_
+3	said	_	Word	Word	_	0	H	0:H	_
+4	to	_	Word	Word	_	5	R	5:R	_
+5	me	_	Word	Word	_	3	A	3:A	_
+6	:	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	Water	_	Word	Word	_	12	A	12:A	_
+9	may	_	Word	Word	_	12	D	12:D	_
+10	also	_	Word	Word	_	12	D	12:D	_
+11	be	_	Word	Word	_	12	F	12:F	_
+12	good	_	Word	Word	_	3	A	3:A	_
+13	for	_	Word	Word	_	15	R	15:R	_
+14	the	_	Word	Word	_	15	F	15:F	_
+15	heart	_	Word	Word	_	12	A	12:A	_
+16	...	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	"	_	Punctuation	Punctuation	_	15	U	15:U	_
+

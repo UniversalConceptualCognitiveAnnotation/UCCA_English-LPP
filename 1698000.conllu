@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 1698000
+# text = I own three volcanoes , which I clean out every week ( for I also clean out the one that is extinct ; one never knows ) .
+1	I	_	Word	Word	_	2	A	2:A	_
+2	own	_	Word	Word	_	0	H	0:H	_
+3	three	_	Word	Word	_	4	Q	4:Q	_
+4	volcanoes	_	Word	Word	_	2	A	2:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	which	_	Word	Word	_	8	R	8:R	_
+7	I	_	Word	Word	_	8	A	8:A	_
+8	clean	_	Word	Word	_	4	E	4:E	_
+9	out	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	every	_	Word	Word	_	11	Q	11:Q	_
+11	week	_	Word	Word	_	8	T	8:T	_
+12	(	_	Punctuation	Punctuation	_	2	U	2:U	_
+13	for	_	Word	Word	_	16	L	16:L	_
+14	I	_	Word	Word	_	16	A	16:A	_
+15	also	_	Word	Word	_	16	D	16:D	_
+16	clean	_	Word	Word	_	2	H	2:H	_
+17	out	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	the	_	Word	Word	_	19	F	19:F	_
+19	one	_	Word	Word	_	16	A	16:A	_
+20	that	_	Word	Word	_	22	R	22:R	_
+21	is	_	Word	Word	_	22	F	22:F	_
+22	extinct	_	Word	Word	_	19	E	19:E	_
+23	;	_	Punctuation	Punctuation	_	2	U	2:U	_
+24	one	_	Word	Word	_	26	A	26:A	_
+25	never	_	Word	Word	_	26	D	26:D	_
+26	knows	_	Word	Word	_	2	H	2:H	_
+27	)	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

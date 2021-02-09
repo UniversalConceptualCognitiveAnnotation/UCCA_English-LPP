@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 1781000
+# text = " And the stars obey you ? "
+1	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+2	And	_	Word	Word	_	5	L	5:L	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	stars	_	Word	Word	_	5	A	5:A	_
+5	obey	_	Word	Word	_	0	H	0:H	_
+6	you	_	Word	Word	_	5	A	5:A	_
+7	?	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+

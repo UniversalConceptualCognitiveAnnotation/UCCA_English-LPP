@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 1703000
+# text = When we had trudged along for several hours , in silence , the darkness fell , and the stars began to come out .
+1	When	_	Word	Word	_	11	L	11:L	_
+2	we	_	Word	Word	_	4	A	4:A|11:A	_
+3	had	_	Word	Word	_	4	F	4:F	_
+4	trudged	_	Word	Word	_	0	H	0:H	_
+5	along	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	for	_	Word	Word	_	8	R	8:R	_
+7	several	_	Word	Word	_	8	Q	8:Q	_
+8	hours	_	Word	Word	_	4	T	4:T	_
+9	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	silence	_	Word	Word	_	4	H	4:H	_
+12	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+13	the	_	Word	Word	_	14	F	14:F	_
+14	darkness	_	Word	Word	_	4	H	4:H	_
+15	fell	_	Word	Word	_	14	D	14:D	_
+16	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+17	and	_	Word	Word	_	22	L	22:L	_
+18	the	_	Word	Word	_	19	F	19:F	_
+19	stars	_	Word	Word	_	22	A	22:A	_
+20	began	_	Word	Word	_	22	D	22:D	_
+21	to	_	Word	Word	_	22	F	22:F	_
+22	come	_	Word	Word	_	4	H	4:H	_
+23	out	_	Word	Word	_	22	D	22:D	_
+24	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

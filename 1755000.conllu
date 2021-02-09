@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 1755000
+# text = " Men have forgotten this truth , " said the fox .
+1	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+2	Men	_	Word	Word	_	4	A	4:A	_
+3	have	_	Word	Word	_	4	F	4:F	_
+4	forgotten	_	Word	Word	_	9	A	9:A	_
+5	this	_	Word	Word	_	6	E	6:E	_
+6	truth	_	Word	Word	_	4	A	4:A	_
+7	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	said	_	Word	Word	_	0	H	0:H	_
+10	the	_	Word	Word	_	11	F	11:F	_
+11	fox	_	Word	Word	_	9	A	9:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

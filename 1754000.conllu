@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 1754000
+# text = But one never knows where to find them .
+1	But	_	Word	Word	_	4	L	4:L	_
+2	one	_	Word	Word	_	4	A	4:A|7:A	_
+3	never	_	Word	Word	_	4	D	4:D	_
+4	knows	_	Word	Word	_	0	H	0:H	_
+5	where	_	Word	Word	_	4	A	4:A	_
+6	to	_	Word	Word	_	7	F	7:F	_
+7	find	_	Word	Word	_	5	E	5:E	_
+8	them	_	Word	Word	_	7	A	7:A	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

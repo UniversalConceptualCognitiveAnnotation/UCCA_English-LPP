@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 1728000
+# text = And , having opened his big register , the geographer sharpened his pencil .
+1	And	_	Word	Word	_	11	L	11:L	_
+2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	having	_	Word	Word	_	4	F	4:F	_
+4	opened	_	Word	Word	_	0	H	0:H	_
+5	his	_	Word	Word	_	7	E	7:E	_
+6	big	_	Word	Word	_	7	E	7:E	_
+7	register	_	Word	Word	_	4	A	4:A	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	the	_	Word	Word	_	10	F	10:F	_
+10	geographer	_	Word	Word	_	0	C	0:C|4:A	_
+11	sharpened	_	Word	Word	_	4	H	4:H	_
+12	his	_	Word	Word	_	13	E	13:E	_
+13	pencil	_	Word	Word	_	11	A	11:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 1721000
+# text = And here were five thousand of them , all alike , in one single garden !
+1	And	_	Word	Word	_	12	L	12:L	_
+2	here	_	Word	Word	_	0	H	0:H	_
+3	were	_	Word	Word	_	2	F	2:F	_
+4	five	_	Word	Word	_	7	Q	7:Q	_
+5	thousand	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	of	_	Word	Word	_	7	R	7:R	_
+7	them	_	Word	Word	_	0	C	0:C|9:C|12:A	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	all	_	Word	Word	_	10	A	10:A	_
+10	alike	_	Word	Word	_	7	E	7:E	_
+11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	in	_	Word	Word	_	2	H	2:H	_
+13	one	_	Word	Word	_	15	Q	15:Q	_
+14	single	_	Word	Word	_	13	C	13:C	_
+15	garden	_	Word	Word	_	12	A	12:A	_
+16	!	_	Punctuation	Punctuation	_	15	U	15:U	_
+

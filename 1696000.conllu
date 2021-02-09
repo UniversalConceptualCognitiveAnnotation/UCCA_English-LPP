@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 1696000
+# text = Next , the lamplighters of China and Siberia would enter for their steps in the dance , and then they too would be waved back into the wings .
+1	Next	_	Word	Word	_	13	L	13:L	_
+2	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	lamplighters	_	Word	Word	_	10	A	10:A	_
+5	of	_	Word	Word	_	6	R	6:R	_
+6	China	_	Word	Word	_	4	E	4:E	_
+7	and	_	Word	Word	_	6	N	6:N	_
+8	Siberia	_	Word	Word	_	6	C	6:C	_
+9	would	_	Word	Word	_	10	D	10:D	_
+10	enter	_	Word	Word	_	0	H	0:H	_
+11	for	_	Word	Word	_	13	L	13:L	_
+12	their	_	Word	Word	_	13	A	13:A	_
+13	steps	_	Word	Word	_	10	H	10:H	_
+14	in	_	Word	Word	_	16	L	16:L	_
+15	the	_	Word	Word	_	16	F	16:F	_
+16	dance	_	Word	Word	_	10	H	10:H	_
+17	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+18	and	_	Word	Word	_	24	L	24:L	_
+19	then	_	Word	Word	_	24	L	24:L	_
+20	they	_	Word	Word	_	24	A	24:A	_
+21	too	_	Word	Word	_	24	D	24:D	_
+22	would	_	Word	Word	_	24	D	24:D	_
+23	be	_	Word	Word	_	24	F	24:F	_
+24	waved	_	Word	Word	_	10	H	10:H	_
+25	back	_	Word	Word	_	24	D	24:D	_
+26	into	_	Word	Word	_	28	R	28:R	_
+27	the	_	Word	Word	_	28	F	28:F	_
+28	wings	_	Word	Word	_	24	A	24:A	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 1708000
+# text = If you succeed in judging yourself rightly , then you are indeed a man of true wisdom . "
+1	If	_	Word	Word	_	11	L	11:L	_
+2	you	_	Word	Word	_	5	A	5:A	_
+3	succeed	_	Word	Word	_	5	D	5:D	_
+4	in	_	Word	Word	_	5	R	5:R	_
+5	judging	_	Word	Word	_	0	H	0:H	_
+6	yourself	_	Word	Word	_	5	A	5:A	_
+7	rightly	_	Word	Word	_	5	D	5:D	_
+8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	then	_	Word	Word	_	11	L	11:L	_
+10	you	_	Word	Word	_	11	A	11:A	_
+11	are	_	Word	Word	_	5	H	5:H	_
+12	indeed	_	Word	Word	_	11	G	11:G	_
+13	a	_	Word	Word	_	14	F	14:F	_
+14	man	_	Word	Word	_	11	A	11:A	_
+15	of	_	Word	Word	_	17	R	17:R	_
+16	true	_	Word	Word	_	17	D	17:D	_
+17	wisdom	_	Word	Word	_	14	E	14:E	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+

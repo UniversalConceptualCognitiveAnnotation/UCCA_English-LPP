@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 1727000
+# text = I will draw you a railing to put around your flower .
+1	I	_	Word	Word	_	3	A	3:A	_
+2	will	_	Word	Word	_	3	F	3:F	_
+3	draw	_	Word	Word	_	0	H	0:H	_
+4	you	_	Word	Word	_	3	A	3:A|8:A	_
+5	a	_	Word	Word	_	6	F	6:F	_
+6	railing	_	Word	Word	_	0	C	0:C|8:A	_
+7	to	_	Word	Word	_	8	L	8:L	_
+8	put	_	Word	Word	_	3	H	3:H	_
+9	around	_	Word	Word	_	11	R	11:R	_
+10	your	_	Word	Word	_	11	E	11:E	_
+11	flower	_	Word	Word	_	8	A	8:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

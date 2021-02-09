@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 1714000
+# text = The well that we had come to was not like the wells of the Sahara .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	well	_	Word	Word	_	8	A	8:A	_
+3	that	_	Word	Word	_	6	R	6:R	_
+4	we	_	Word	Word	_	6	A	6:A	_
+5	had	_	Word	Word	_	6	F	6:F	_
+6	come	_	Word	Word	_	2	E	2:E	_
+7	to	_	Word	Word	_	6	A	6:A	_
+8	was	_	Word	Word	_	0	H	0:H	_
+9	not	_	Word	Word	_	8	D	8:D	_
+10	like	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	F	12:F	_
+12	wells	_	Word	Word	_	8	A	8:A	_
+13	of	_	Word	Word	_	15	R	15:R	_
+14	the	_	Word	Word	_	15	F	15:F	_
+15	Sahara	_	Word	Word	_	12	E	12:E	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 1787000
+# text = These are their only interests .
+1	These	_	Word	Word	_	5	A	5:A	_
+2	are	_	Word	Word	_	5	F	5:F	_
+3	their	_	Word	Word	_	5	A	5:A	_
+4	only	_	Word	Word	_	5	D	5:D	_
+5	interests	_	Word	Word	_	0	H	0:H	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

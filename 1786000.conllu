@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 1786000
+# text = The wind blows them away .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	wind	_	Word	Word	_	3	A	3:A	_
+3	blows	_	Word	Word	_	0	H	0:H	_
+4	them	_	Word	Word	_	3	A	3:A	_
+5	away	_	Word	Word	_	3	D	3:D	_
+6	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+

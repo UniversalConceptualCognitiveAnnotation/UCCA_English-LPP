@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 1760000
+# text = Yawns , to me , are objects of curiosity .
+1	Yawns	_	Word	Word	_	6	A	6:A	_
+2	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	to	_	Word	Word	_	0	H	0:H	_
+4	me	_	Word	Word	_	3	A	3:A	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	are	_	Word	Word	_	3	A	3:A	_
+7	objects	_	Word	Word	_	6	A	6:A	_
+8	of	_	Word	Word	_	9	R	9:R	_
+9	curiosity	_	Word	Word	_	7	E	7:E	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

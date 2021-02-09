@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 1739000
+# text = " It is not funny at all ! " said the lamplighter .
+1	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+2	It	_	Word	Word	_	5	A	5:A	_
+3	is	_	Word	Word	_	5	F	5:F	_
+4	not	_	Word	Word	_	5	D	5:D	_
+5	funny	_	Word	Word	_	10	A	10:A	_
+6	at	_	Word	Word	_	5	D	5:D	_
+7	all	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	!	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	said	_	Word	Word	_	0	H	0:H	_
+11	the	_	Word	Word	_	12	F	12:F	_
+12	lamplighter	_	Word	Word	_	10	A	10:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+
