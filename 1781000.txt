@@ -1,0 +1,11 @@
+# ::id 1781000
+# ::tok " And the stars obey you ? "
+# ::alignments 1-1.1 3-1.2.3.2 4-1.2.4 5-1.2.5
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.1)
+    :H (v3 / label
+           :A (v4 / label
+                  :C (v7 / label~e.3))
+           :P (v5 / label~e.4)
+           :A (v6 / label~e.5)))

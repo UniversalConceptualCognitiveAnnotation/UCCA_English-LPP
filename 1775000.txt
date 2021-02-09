@@ -1,0 +1,12 @@
+# ::id 1775000
+# ::tok " But I have not much time .
+# ::alignments 1-1.1 2-1.2.1 4-1.2.3 5-1.2.4 6-1.2.2.1
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.1)
+    :H (v3 / label
+           :A (v4 / label~e.2)
+           :S (v5 / label
+                  :C (v8 / label~e.6))
+           :D (v6 / label~e.4)
+           :D (v7 / label~e.5)))

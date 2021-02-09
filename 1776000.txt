@@ -1,0 +1,12 @@
+# ::id 1776000
+# ::tok " It is too heavy for you . "
+# ::alignments 1-1.1.2 3-1.1.4 4-1.1.5 5-1.1.6.4 6-1.1.6.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.1)
+           :D (v4 / label~e.3)
+           :S (v5 / label~e.4)
+           :A (v6 / label
+                  :C (v7 / label~e.6)
+                  :R (v8 / label~e.5))))

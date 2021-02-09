@@ -1,0 +1,43 @@
+# ::id 1694000
+# ::tok Embarassed over having let herself be caught on the verge of such a naïve untruth , she coughed two or three times , in order to put the little prince in the wrong .
+# ::alignments 0-1.1.2 1-1.1.3.2 3-1.1.3.4 4-1.1.3.4 6-1.1.3.6 7-1.1.3.7.2 9-1.1.3.7.3.2 10-1.1.3.7.4.1 11-1.1.3.7.5.1 13-1.1.3.7.5.3 14-1.1.3.7.4.2 16-1.1.1 17-1.2.2 18-1.2.3.1.1 19-1.2.3.1.2 20-1.2.3.1.3 21-1.2.3.2 23-1.3 24-1.3 25-1.3 26-1.4.3 28-1.4.4.2.2 29-1.4.4.3.1 30-1.4.3 31-1.4.3 32-1.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.16)
+           :S (v7 / label~e.0)
+           :A (v8 / label
+                  :A v6
+                  :R (v13 / label~e.1)
+                  :D (v14 / label~e.3,4)
+                  :P (v15 / label~e.6)
+                  :A (v16 / label
+                          :A v6
+                          :R (v21 / label~e.7)
+                          :D (v22 / label
+                                  :C (v30 / label~e.9))
+                          :S (v23 / label
+                                  :R (v31 / label~e.10)
+                                  :C (v32 / label~e.14))
+                          :D (v24 / label
+                                  :E (v33 / label~e.11)
+                                  :C (v34 / label~e.13)))))
+    :H (v3 / label
+           :A v6
+           :P (v9 / label~e.17)
+           :D (v10 / label
+                   :Q (v17 / label
+                           :C (v25 / label~e.18)
+                           :N (v26 / label~e.19)
+                           :C (v27 / label~e.20))
+                   :C (v18 / label~e.21)))
+    :L (v4 / label~e.23,24,25)
+    :H (v5 / label
+           :A v6
+           :P (v11 / label~e.26,30,31,32)
+           :A (v12 / label
+                   :E (v19 / label
+                           :A (v20 / label
+                                   :S (v29 / label~e.29))
+                           :S (v28 / label~e.28))
+                   :C v20)))

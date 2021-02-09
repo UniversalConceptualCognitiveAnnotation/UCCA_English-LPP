@@ -1,0 +1,13 @@
+# ::id 1770000
+# ::tok Now my sorrow is comforted a little .
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 4-1.1.4 6-1.1.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label~e.0)
+           :A (v4 / label
+                  :A (v7 / label~e.1)
+                  :S (v8 / label~e.2))
+           :S (v5 / label~e.4)
+           :D (v6 / label
+                  :C (v9 / label~e.6))))

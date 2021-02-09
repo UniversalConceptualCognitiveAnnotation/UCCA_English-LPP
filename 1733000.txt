@@ -1,0 +1,15 @@
+# ::id 1733000
+# ::tok But you are of no use to the stars ... "
+# ::alignments 0-1.1 1-1.2.1 3-1.2.3.1 4-1.2.4 5-1.2.3.2 6-1.2.5.5 8-1.2.5.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label~e.1)
+           :S (v5 / label
+                  :R (v8 / label~e.3)
+                  :C (v9 / label~e.5))
+           :D (v6 / label~e.4)
+           :A (v7 / label
+                  :C (v10 / label~e.8)
+                  :R (v11 / label~e.6))))

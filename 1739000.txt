@@ -1,0 +1,15 @@
+# ::id 1739000
+# ::tok " It is not funny at all ! " said the lamplighter .
+# ::alignments 1-1.1.4.1 3-1.1.4.3 4-1.1.4.4 5-1.1.4.5 6-1.1.4.5 9-1.1.5 11-1.1.6.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v6 / label~e.1)
+                  :D (v7 / label~e.3)
+                  :S (v8 / label~e.4)
+                  :D (v9 / label~e.5,6))
+           :P (v4 / label~e.9)
+           :A (v5 / label
+                  :P (v10 / label
+                          :C (v11 / label~e.11)))))

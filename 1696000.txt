@@ -1,0 +1,38 @@
+# ::id 1696000
+# ::tok Next , the lamplighters of China and Siberia would enter for their steps in the dance , and then they too would be waved back into the wings .
+# ::alignments 0-1.1 3-1.2.1.1.1.2 4-1.2.1.2.1 5-1.2.1.2.2.1 6-1.2.1.2.2.2 7-1.2.1.2.2.3 8-1.2.2 9-1.2.3 10-1.3 11-1.4.1 12-1.4.2 13-1.5 15-1.6.1.2 17-1.7 18-1.8 19-1.9.1 20-1.9.2 21-1.9.3 23-1.9.5 24-1.9.6 25-1.9.7.1 27-1.9.7.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v11 / label
+                   :C (v23 / label
+                           :P (v28 / label
+                                   :C (v31 / label~e.3)))
+                   :E (v24 / label
+                           :R (v29 / label~e.4)
+                           :C (v30 / label
+                                   :C (v32 / label~e.5)
+                                   :N (v33 / label~e.6)
+                                   :C (v34 / label~e.7))))
+           :D (v12 / label~e.8)
+           :P (v13 / label~e.9))
+    :L (v4 / label~e.10)
+    :H (v5 / label
+           :A (v14 / label~e.11)
+           :P (v15 / label~e.12))
+    :L (v6 / label~e.13)
+    :H (v7 / label
+           :P (v16 / label
+                   :C (v25 / label~e.15)))
+    :L (v8 / label~e.17)
+    :L (v9 / label~e.18)
+    :H (v10 / label
+            :A (v17 / label~e.19)
+            :D (v18 / label~e.20)
+            :D (v19 / label~e.21)
+            :P (v20 / label~e.23)
+            :D (v21 / label~e.24)
+            :A (v22 / label
+                    :R (v26 / label~e.25)
+                    :C (v27 / label~e.27))))
