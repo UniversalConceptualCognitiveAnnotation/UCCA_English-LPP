@@ -1,0 +1,55 @@
+dist: trusty
+sudo: false
+language: python
+python: 3.6
+cache:
+  apt: true
+  pip: true
+install:
+  - pip install -U pip
+  - pip install cython
+  - pip install -U ucca
+  - python -m spacy download en_core_web_md
+env:
+  global:
+    - SCRIPTS=https://raw.githubusercontent.com/UniversalConceptualCognitiveAnnotation/docs/master/scripts
+    - secure: "eVaWjpLDgQwG7x9jvNhEc0vAaLGEY9SWviIZLTmt7Lv9iz1mj6ri/czcj9wX0x9eOwma/fI+i+BEALznm4UfiIXeS5hdfDHgHcF4vImGl/R7ULxsg+aofNu02VzI6ZR9FT0erHx8q9dSXeL1iIuTr/JACpj259K8yfEF4RIDWtw2mAsonmQO8A1Nw/u8z4UwhRAVmcSfRew5mR/yOZI66+2v4vEf3UZ/czAeahlEXrbFRsACGAzQfkhGBXZ/silWo3kj0MLDmIKWL07PNDPZgGyYST0/80rZz2vK/YKNXeVKmLiONcjZRwvJu0xZlKgv1BB1pWBh6AGfJurVuJEpWoapBdvOxByAbf7Zvf1c+k4D4FqWhYHhFwE9Ae8vJLKSt86mhpK9ryjKNluSu46kcq4HlNLx/R07kx8psUIMhGOVjAz1RuFsxPGC7p5kq0hpbAOU2EoyxYi0GD1CC7IDzfzRfDL17Gi/4I7Uoitxb0XQc43+181STrNVRYRZ1sEd7d2wiuL8tSYK4BPdoBTB5iXAP493MZE30ea/yZEXq9xJhtfU0/lahActvWikqcqbWBiCY4g77yayLCJlfqaC3UeXfy1WWe0yh5TNk53o3uMzGutRSOjijlKGZcrbQ9YujeDR984fvnUEyEUbE98v2Rjr1l/OEyzFn58nvO0ZyXg="
+jobs:
+  include:
+    - script: python -m scripts.validate --no-linkage xml
+    - stage: split
+      script: curl $SCRIPTS/split_to_sentences.sh | bash
+    - stage: convert
+      script: curl $SCRIPTS/validate_sentences.sh | bash -s -- --no-linkage
+      env: FORMAT=validate
+    - script: curl $SCRIPTS/sentences_to_xml.sh | bash
+      env: FORMAT=xml
+    - script: curl $SCRIPTS/tupa.sh | bash
+      env: FORMAT=tupa
+    - script: curl $SCRIPTS/visualize.sh | bash
+      env: FORMAT=visualize
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
+      env: FORMAT=sdp
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
+      env: FORMAT=conll
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
+      env: FORMAT=conllu
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
+      env: FORMAT=amr
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
+      env: FORMAT=export
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
+      env: FORMAT=txt
+    - stage: evaluate
+      script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT
+      env: FORMAT=sdp
+    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT
+      env: FORMAT=conll
+    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT
+      env: FORMAT=conllu
+    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT
+      env: FORMAT=amr
+    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT
+      env: FORMAT=export
+after_success: curl $SCRIPTS/push.sh | bash
+
