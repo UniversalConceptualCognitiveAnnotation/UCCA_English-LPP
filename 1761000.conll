@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 1761000
+1	And	_	Word	Word	_	5	L	_	_
+2	the	_	Word	Word	_	4	F	_	_
+3	little	_	Word	Word	_	4	E	_	_
+4	prince	_	Word	Word	_	0	S	_	_
+4	prince	_	Word	Word	_	8	A*	_	_
+5	went	_	Word	Word	_	0	H	_	_
+6	away	_	Word	Word	_	5	D	_	_
+7	,	_	Punctuation	Punctuation	_	5	U	_	_
+8	puzzled	_	Word	Word	_	5	H	_	_
+9	.	_	Punctuation	Punctuation	_	8	U	_	_
+

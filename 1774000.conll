@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 1774000
+1	"	_	Punctuation	Punctuation	_	3	U	_	_
+2	I	_	Word	Word	_	3	A	_	_
+3	hunt	_	Word	Word	_	0	H	_	_
+4	chickens	_	Word	Word	_	3	A	_	_
+5	;	_	Punctuation	Punctuation	_	3	U	_	_
+6	men	_	Word	Word	_	7	A	_	_
+7	hunt	_	Word	Word	_	3	H	_	_
+8	me	_	Word	Word	_	7	A	_	_
+9	.	_	Punctuation	Punctuation	_	7	U	_	_
+

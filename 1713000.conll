@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 1713000
+1	"	_	Punctuation	Punctuation	_	16	U	_	_
+2	It	_	Word	Word	_	6	A	_	_
+3	would	_	Word	Word	_	6	D	_	_
+4	have	_	Word	Word	_	6	F	_	_
+5	been	_	Word	Word	_	6	F	_	_
+6	better	_	Word	Word	_	16	A	_	_
+7	to	_	Word	Word	_	8	F	_	_
+8	come	_	Word	Word	_	6	A	_	_
+9	back	_	Word	Word	_	8	D	_	_
+10	at	_	Word	Word	_	13	R	_	_
+11	the	_	Word	Word	_	13	F	_	_
+12	same	_	Word	Word	_	13	E	_	_
+13	hour	_	Word	Word	_	8	T	_	_
+14	,	_	Punctuation	Punctuation	_	16	U	_	_
+15	"	_	Punctuation	Punctuation	_	16	U	_	_
+16	said	_	Word	Word	_	0	H	_	_
+17	the	_	Word	Word	_	18	F	_	_
+18	fox	_	Word	Word	_	16	A	_	_
+19	.	_	Punctuation	Punctuation	_	18	U	_	_
+

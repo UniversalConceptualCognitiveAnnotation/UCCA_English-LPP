@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 1709000
+1	I	_	Word	Word	_	2	A	_	_
+2	put	_	Word	Word	_	0	H	_	_
+3	the	_	Word	Word	_	4	F	_	_
+4	lamp	_	Word	Word	_	2	A	_	_
+5	out	_	Word	Word	_	2	Terminal	_	_
+6	in	_	Word	Word	_	8	R	_	_
+7	the	_	Word	Word	_	8	F	_	_
+8	morning	_	Word	Word	_	2	T	_	_
+9	,	_	Punctuation	Punctuation	_	2	U	_	_
+10	and	_	Word	Word	_	2	L	_	_
+11	in	_	Word	Word	_	13	R	_	_
+12	the	_	Word	Word	_	13	F	_	_
+13	evening	_	Word	Word	_	15	T	_	_
+14	I	_	Word	Word	_	15	A	_	_
+15	lighted	_	Word	Word	_	2	H	_	_
+16	it	_	Word	Word	_	15	A	_	_
+17	again	_	Word	Word	_	15	D	_	_
+18	.	_	Punctuation	Punctuation	_	15	U	_	_
+

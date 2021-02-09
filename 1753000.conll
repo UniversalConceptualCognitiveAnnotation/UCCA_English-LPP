@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 1753000
+1	Then	_	Word	Word	_	6	L	_	_
+2	there	_	Word	Word	_	6	F	_	_
+3	are	_	Word	Word	_	6	F	_	_
+4	no	_	Word	Word	_	6	D	_	_
+5	people	_	Word	Word	_	6	A	_	_
+6	on	_	Word	Word	_	0	H	_	_
+7	the	_	Word	Word	_	8	F	_	_
+8	Earth	_	Word	Word	_	6	A	_	_
+9	?	_	Punctuation	Punctuation	_	8	U	_	_
+10	"	_	Punctuation	Punctuation	_	8	U	_	_
+

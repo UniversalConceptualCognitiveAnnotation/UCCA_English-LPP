@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 1750000
+1	So	_	Word	Word	_	6	L	_	_
+2	then	_	Word	Word	_	6	L	_	_
+3	the	_	Word	Word	_	5	F	_	_
+4	seventh	_	Word	Word	_	5	Q	_	_
+5	planet	_	Word	Word	_	6	A	_	_
+6	was	_	Word	Word	_	0	H	_	_
+7	the	_	Word	Word	_	8	F	_	_
+8	Earth	_	Word	Word	_	6	A	_	_
+9	.	_	Punctuation	Punctuation	_	8	U	_	_
+

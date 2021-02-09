@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 1696000
+1	Next	_	Word	Word	_	10	L	_	_
+2	,	_	Punctuation	Punctuation	_	10	U	_	_
+3	the	_	Word	Word	_	4	F	_	_
+4	lamplighters	_	Word	Word	_	10	A	_	_
+5	of	_	Word	Word	_	6	R	_	_
+6	China	_	Word	Word	_	4	E	_	_
+7	and	_	Word	Word	_	6	N	_	_
+8	Siberia	_	Word	Word	_	6	C	_	_
+9	would	_	Word	Word	_	10	D	_	_
+10	enter	_	Word	Word	_	0	H	_	_
+11	for	_	Word	Word	_	10	L	_	_
+12	their	_	Word	Word	_	13	A	_	_
+13	steps	_	Word	Word	_	10	H	_	_
+14	in	_	Word	Word	_	10	L	_	_
+15	the	_	Word	Word	_	16	F	_	_
+16	dance	_	Word	Word	_	10	H	_	_
+17	,	_	Punctuation	Punctuation	_	10	U	_	_
+18	and	_	Word	Word	_	10	L	_	_
+19	then	_	Word	Word	_	10	L	_	_
+20	they	_	Word	Word	_	24	A	_	_
+21	too	_	Word	Word	_	24	D	_	_
+22	would	_	Word	Word	_	24	D	_	_
+23	be	_	Word	Word	_	24	F	_	_
+24	waved	_	Word	Word	_	10	H	_	_
+25	back	_	Word	Word	_	24	D	_	_
+26	into	_	Word	Word	_	28	R	_	_
+27	the	_	Word	Word	_	28	F	_	_
+28	wings	_	Word	Word	_	24	A	_	_
+29	.	_	Punctuation	Punctuation	_	28	U	_	_
+

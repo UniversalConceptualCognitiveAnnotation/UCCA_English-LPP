@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 1695000
+1	Then	_	Word	Word	_	7	L	_	_
+2	he	_	Word	Word	_	7	A	_	_
+3	went	_	Word	Word	_	7	D	_	_
+4	on	_	Word	Word	_	3	Terminal	_	_
+5	with	_	Word	Word	_	7	R	_	_
+6	his	_	Word	Word	_	7	F	_	_
+7	reflections	_	Word	Word	_	0	H	_	_
+8	:	_	Punctuation	Punctuation	_	7	U	_	_
+9	"	_	Punctuation	Punctuation	_	7	U	_	_
+10	I	_	Word	Word	_	11	A	_	_
+11	thought	_	Word	Word	_	7	A	_	_
+12	that	_	Word	Word	_	15	R	_	_
+13	I	_	Word	Word	_	15	A	_	_
+13	I	_	Word	Word	_	17	A*	_	_
+14	was	_	Word	Word	_	15	F	_	_
+15	rich	_	Word	Word	_	11	A	_	_
+16	,	_	Punctuation	Punctuation	_	15	U	_	_
+17	with	_	Word	Word	_	15	H	_	_
+18	a	_	Word	Word	_	19	F	_	_
+19	flower	_	Word	Word	_	17	A	_	_
+20	that	_	Word	Word	_	22	R	_	_
+21	was	_	Word	Word	_	22	F	_	_
+22	unique	_	Word	Word	_	19	E	_	_
+23	in	_	Word	Word	_	26	R	_	_
+24	all	_	Word	Word	_	26	Q	_	_
+25	the	_	Word	Word	_	26	F	_	_
+26	world	_	Word	Word	_	22	A	_	_
+27	;	_	Punctuation	Punctuation	_	7	U	_	_
+28	and	_	Word	Word	_	7	L	_	_
+29	all	_	Word	Word	_	32	A	_	_
+30	I	_	Word	Word	_	31	A	_	_
+31	had	_	Word	Word	_	29	E	_	_
+32	was	_	Word	Word	_	7	H	_	_
+33	a	_	Word	Word	_	35	F	_	_
+34	common	_	Word	Word	_	35	E	_	_
+35	rose	_	Word	Word	_	32	A	_	_
+36	.	_	Punctuation	Punctuation	_	35	U	_	_
+
