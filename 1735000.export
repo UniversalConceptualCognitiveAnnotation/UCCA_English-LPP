@@ -1,0 +1,39 @@
+#BOS 1735000
+"	Punctuation	--	Terminal	500
+It	Word	--	Terminal	501
+is	Word	--	Terminal	502
+an	Word	--	Terminal	503
+act	Word	--	Terminal	504
+too	Word	--	Terminal	505
+often	Word	--	Terminal	506
+neglected	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+"	Punctuation	--	Terminal	509
+said	Word	--	Terminal	510
+the	Word	--	Terminal	511
+fox	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	PNCT	--	U	521
+#501	FN	--	A	520
+#502	FN	--	S	520
+#503	FN	--	F	514
+#504	FN	--	C	514	A*	516
+#505	FN	--	E	515
+#506	FN	--	C	515
+#507	FN	--	S	516
+#508	PNCT	--	U	521
+#509	PNCT	--	U	521
+#510	FN	--	P	521
+#511	FN	--	F	517
+#512	FN	--	C	517
+#513	PNCT	--	U	517
+#514	FN	--	P	518
+#515	FN	--	T	516
+#516	FN	--	E	519
+#517	FN	--	A	521
+#518	FN	--	C	519
+#519	FN	--	A	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 1735000

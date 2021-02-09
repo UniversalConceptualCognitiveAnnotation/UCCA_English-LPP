@@ -1,0 +1,22 @@
+#BOS 1764000
+But	Word	--	Terminal	500
+his	Word	--	Terminal	501
+planet	Word	--	Terminal	502
+is	Word	--	Terminal	503
+indeed	Word	--	Terminal	504
+too	Word	--	Terminal	505
+small	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	L	511
+#501	FN	--	S	508
+#502	FN	--	C	509	A*	508
+#503	FN	--	F	510
+#504	FN	--	G	510
+#505	FN	--	D	510
+#506	FN	--	S	510
+#507	PNCT	--	U	510
+#508	FN	--	E	509
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 1764000

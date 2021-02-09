@@ -1,0 +1,41 @@
+#BOS 1714000
+The	Word	--	Terminal	500
+well	Word	--	Terminal	501
+that	Word	--	Terminal	502
+we	Word	--	Terminal	503
+had	Word	--	Terminal	504
+come	Word	--	Terminal	505
+to	Word	--	Terminal	506
+was	Word	--	Terminal	507
+not	Word	--	Terminal	508
+like	Word	--	Terminal	509
+the	Word	--	Terminal	510
+wells	Word	--	Terminal	511
+of	Word	--	Terminal	512
+the	Word	--	Terminal	513
+Sahara	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	F	519
+#501	FN	--	C	519	C*	516
+#502	FN	--	R	517
+#503	FN	--	A	517
+#504	FN	--	F	517
+#505	FN	--	P	517
+#506	FN	--	R	516
+#507	FN	--	S	521
+#508	FN	--	D	521
+#509	FN	--	R	520
+#510	FN	--	F	520
+#511	FN	--	C	520
+#512	FN	--	R	518
+#513	FN	--	F	518
+#514	FN	--	C	518
+#515	PNCT	--	U	518
+#516	FN	--	A	517
+#517	FN	--	E	519
+#518	FN	--	E	520
+#519	FN	--	A	521
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 1714000

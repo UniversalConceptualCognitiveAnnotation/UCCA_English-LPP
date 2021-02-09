@@ -1,0 +1,41 @@
+#BOS 1721000
+And	Word	--	Terminal	500
+here	Word	--	Terminal	501
+were	Word	--	Terminal	502
+five	Word	--	Terminal	503
+thousand	Word	--	Terminal	503
+of	Word	--	Terminal	504
+them	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+all	Word	--	Terminal	507
+alike	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+in	Word	--	Terminal	510
+one	Word	--	Terminal	511
+single	Word	--	Terminal	512
+garden	Word	--	Terminal	513
+!	Punctuation	--	Terminal	514
+#500	FN	--	L	522
+#501	FN	--	S	521
+#502	FN	--	F	521
+#503	FN	--	Q	520
+#504	FN	--	R	520
+#505	FN	--	C	520	A*	519	C*	515
+#506	PNCT	--	U	520
+#507	FN	--	Q	515
+#508	FN	--	S	516
+#509	PNCT	--	U	522
+#510	FN	--	S	519
+#511	FN	--	C	517
+#512	FN	--	C	517
+#513	FN	--	C	518
+#514	PNCT	--	U	518
+#515	FN	--	A	516
+#516	FN	--	E	520
+#517	FN	--	Q	518
+#518	FN	--	A	519
+#519	FN	--	H	522
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 1721000

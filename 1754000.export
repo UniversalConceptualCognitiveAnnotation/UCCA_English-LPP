@@ -1,0 +1,24 @@
+#BOS 1754000
+But	Word	--	Terminal	500
+one	Word	--	Terminal	501
+never	Word	--	Terminal	502
+knows	Word	--	Terminal	503
+where	Word	--	Terminal	504
+to	Word	--	Terminal	505
+find	Word	--	Terminal	506
+them	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	L	512
+#501	FN	--	A	511	A*	509
+#502	FN	--	D	511
+#503	FN	--	S	511
+#504	FN	--	C	510	A*	509
+#505	FN	--	F	509
+#506	FN	--	P	509
+#507	FN	--	A	509
+#508	PNCT	--	U	509
+#509	FN	--	E	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 1754000

@@ -1,0 +1,40 @@
+#BOS 1728000
+And	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+having	Word	--	Terminal	502
+opened	Word	--	Terminal	503
+his	Word	--	Terminal	504
+big	Word	--	Terminal	505
+register	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+the	Word	--	Terminal	508
+geographer	Word	--	Terminal	509
+sharpened	Word	--	Terminal	510
+his	Word	--	Terminal	511
+pencil	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	L	523
+#501	PNCT	--	U	523
+#502	FN	--	F	518
+#503	FN	--	P	518
+#504	FN	--	S	514
+#505	FN	--	S	515
+#506	FN	--	C	516	A*	514	A*	515
+#507	PNCT	--	U	523
+#508	FN	--	F	517
+#509	FN	--	C	517	A*	518
+#510	FN	--	P	522
+#511	FN	--	S	519
+#512	FN	--	C	520	A*	519
+#513	PNCT	--	U	520
+#514	FN	--	E	516
+#515	FN	--	E	516
+#516	FN	--	A	518
+#517	FN	--	P	521
+#518	FN	--	H	523
+#519	FN	--	E	520
+#520	FN	--	A	522
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 1728000

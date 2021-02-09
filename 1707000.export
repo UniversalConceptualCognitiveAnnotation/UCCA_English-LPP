@@ -1,0 +1,55 @@
+#BOS 1707000
+He	Word	--	Terminal	500
+said	Word	--	Terminal	501
+to	Word	--	Terminal	502
+me	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+instead	Word	--	Terminal	505
+:	Punctuation	--	Terminal	506
+"	Punctuation	--	Terminal	507
+The	Word	--	Terminal	508
+thing	Word	--	Terminal	509
+that	Word	--	Terminal	510
+is	Word	--	Terminal	511
+important	Word	--	Terminal	512
+is	Word	--	Terminal	513
+the	Word	--	Terminal	514
+thing	Word	--	Terminal	515
+that	Word	--	Terminal	516
+is	Word	--	Terminal	517
+not	Word	--	Terminal	518
+seen	Word	--	Terminal	519
+...	Punctuation	--	Terminal	520
+"	Punctuation	--	Terminal	521
+#500	FN	--	A	529
+#501	FN	--	P	529
+#502	FN	--	R	522
+#503	FN	--	C	522
+#504	PNCT	--	U	530
+#505	FN	--	L	530
+#506	PNCT	--	U	530
+#507	PNCT	--	U	530
+#508	FN	--	F	524
+#509	FN	--	C	524	A*	523
+#510	FN	--	R	523
+#511	FN	--	F	523
+#512	FN	--	S	523
+#513	FN	--	S	528
+#514	FN	--	F	527
+#515	FN	--	C	527	A*	526
+#516	FN	--	R	526
+#517	FN	--	F	526
+#518	FN	--	D	526
+#519	FN	--	S	526
+#520	PNCT	--	U	526
+#521	PNCT	--	U	526
+#522	FN	--	A	529
+#523	FN	--	E	524
+#524	FN	--	A	528
+#525	FN	--	A	526
+#526	FN	--	E	527
+#527	FN	--	A	528
+#528	FN	--	A	529
+#529	FN	--	H	530
+#530	FN	--	--	0
+#EOS 1707000

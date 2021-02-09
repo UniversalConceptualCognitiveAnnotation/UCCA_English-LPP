@@ -1,0 +1,36 @@
+#BOS 1723000
+When	Word	--	Terminal	500
+you	Word	--	Terminal	501
+find	Word	--	Terminal	502
+a	Word	--	Terminal	503
+diamond	Word	--	Terminal	504
+that	Word	--	Terminal	505
+belongs	Word	--	Terminal	506
+to	Word	--	Terminal	507
+nobody	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+it	Word	--	Terminal	510
+is	Word	--	Terminal	511
+yours	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	L	519
+#501	FN	--	A	518
+#502	FN	--	P	518
+#503	FN	--	F	517
+#504	FN	--	C	517	A*	516
+#505	FN	--	R	516
+#506	FN	--	S	516
+#507	FN	--	R	514
+#508	FN	--	C	514
+#509	PNCT	--	U	519
+#510	FN	--	A	515
+#511	FN	--	F	515
+#512	FN	--	S	515
+#513	PNCT	--	U	515
+#514	FN	--	A	516
+#515	FN	--	H	519
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 1723000

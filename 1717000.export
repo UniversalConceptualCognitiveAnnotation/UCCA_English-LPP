@@ -1,0 +1,44 @@
+#BOS 1717000
+This	Word	--	Terminal	500
+was	Word	--	Terminal	501
+a	Word	--	Terminal	502
+merchant	Word	--	Terminal	503
+who	Word	--	Terminal	504
+sold	Word	--	Terminal	505
+pills	Word	--	Terminal	506
+that	Word	--	Terminal	507
+had	Word	--	Terminal	508
+been	Word	--	Terminal	509
+invented	Word	--	Terminal	510
+to	Word	--	Terminal	511
+quench	Word	--	Terminal	512
+thirst	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	525
+#501	FN	--	S	525
+#502	FN	--	F	515
+#503	FN	--	C	515	A*	523
+#504	FN	--	R	523
+#505	FN	--	P	523
+#506	FN	--	C	522	A*	519	A*	520
+#507	FN	--	R	521
+#508	FN	--	F	519
+#509	FN	--	F	519
+#510	FN	--	P	519
+#511	FN	--	L	521
+#512	FN	--	P	520
+#513	FN	--	S	516
+#514	PNCT	--	U	516
+#515	FN	--	P	517
+#516	FN	--	A	520
+#517	FN	--	C	524
+#518	FN	--	A	519
+#519	FN	--	H	521
+#520	FN	--	H	521
+#521	FN	--	E	522
+#522	FN	--	A	523
+#523	FN	--	E	524
+#524	FN	--	A	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 1717000

@@ -1,0 +1,40 @@
+#BOS 1712000
+I	Word	--	Terminal	500
+have	Word	--	Terminal	501
+not	Word	--	Terminal	502
+been	Word	--	Terminal	503
+altogether	Word	--	Terminal	504
+honest	Word	--	Terminal	505
+in	Word	--	Terminal	506
+what	Word	--	Terminal	507
+I	Word	--	Terminal	508
+have	Word	--	Terminal	509
+told	Word	--	Terminal	510
+you	Word	--	Terminal	511
+about	Word	--	Terminal	512
+the	Word	--	Terminal	513
+lamplighters	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	520
+#501	FN	--	F	520
+#502	FN	--	D	520
+#503	FN	--	F	520
+#504	FN	--	D	520
+#505	FN	--	S	520
+#506	FN	--	R	519
+#507	FN	--	C	519	A*	518
+#508	FN	--	A	518
+#509	FN	--	F	518
+#510	FN	--	P	518
+#511	FN	--	A	518
+#512	FN	--	R	517
+#513	FN	--	F	516
+#514	FN	--	C	516
+#515	PNCT	--	U	516
+#516	FN	--	P	517
+#517	FN	--	A	518
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 1712000

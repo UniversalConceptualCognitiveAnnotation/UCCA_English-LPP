@@ -1,0 +1,29 @@
+#BOS 1746000
+"	Punctuation	--	Terminal	500
+But	Word	--	Terminal	501
+it	Word	--	Terminal	502
+will	Word	--	Terminal	503
+be	Word	--	Terminal	504
+like	Word	--	Terminal	505
+an	Word	--	Terminal	506
+old	Word	--	Terminal	507
+abandoned	Word	--	Terminal	508
+shell	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	PNCT	--	U	515
+#501	FN	--	L	515
+#502	FN	--	A	514
+#503	FN	--	F	514
+#504	FN	--	S	514
+#505	FN	--	R	513
+#506	FN	--	F	513
+#507	FN	--	S	511
+#508	FN	--	S	512
+#509	FN	--	C	513	A*	511	A*	512
+#510	PNCT	--	U	513
+#511	FN	--	E	513
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 1746000

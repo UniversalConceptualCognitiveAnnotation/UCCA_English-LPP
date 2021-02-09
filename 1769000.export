@@ -1,0 +1,22 @@
+#BOS 1769000
+And	Word	--	Terminal	500
+the	Word	--	Terminal	501
+roses	Word	--	Terminal	502
+were	Word	--	Terminal	503
+very	Word	--	Terminal	504
+much	Word	--	Terminal	505
+embarassed	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	L	511
+#501	FN	--	F	508
+#502	FN	--	C	508
+#503	FN	--	F	510
+#504	FN	--	E	509
+#505	FN	--	C	509
+#506	FN	--	S	510
+#507	PNCT	--	U	510
+#508	FN	--	A	510
+#509	FN	--	D	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 1769000

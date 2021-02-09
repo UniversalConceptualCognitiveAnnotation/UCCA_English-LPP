@@ -1,0 +1,47 @@
+#BOS 1711000
+"	Punctuation	--	Terminal	500
+Then	Word	--	Terminal	501
+they	Word	--	Terminal	502
+belong	Word	--	Terminal	503
+to	Word	--	Terminal	504
+me	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+because	Word	--	Terminal	507
+I	Word	--	Terminal	508
+was	Word	--	Terminal	509
+the	Word	--	Terminal	510
+first	Word	--	Terminal	511
+person	Word	--	Terminal	512
+to	Word	--	Terminal	513
+think	Word	--	Terminal	514
+of	Word	--	Terminal	515
+it	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+"	Punctuation	--	Terminal	518
+#500	PNCT	--	U	525
+#501	FN	--	L	525
+#502	FN	--	A	521
+#503	FN	--	S	521
+#504	FN	--	R	519
+#505	FN	--	C	519
+#506	PNCT	--	U	525
+#507	FN	--	L	525
+#508	FN	--	A	524
+#509	FN	--	S	524
+#510	FN	--	F	523
+#511	FN	--	Q	523
+#512	FN	--	C	523	A*	522
+#513	FN	--	F	522
+#514	FN	--	P	522
+#515	FN	--	R	520
+#516	FN	--	C	520
+#517	PNCT	--	U	520
+#518	PNCT	--	U	520
+#519	FN	--	A	521
+#520	FN	--	A	522
+#521	FN	--	H	525
+#522	FN	--	E	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 1711000

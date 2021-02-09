@@ -1,0 +1,35 @@
+#BOS 1722000
+"	Punctuation	--	Terminal	500
+And	Word	--	Terminal	501
+I	Word	--	Terminal	502
+was	Word	--	Terminal	503
+born	Word	--	Terminal	504
+at	Word	--	Terminal	505
+the	Word	--	Terminal	506
+same	Word	--	Terminal	507
+moment	Word	--	Terminal	508
+as	Word	--	Terminal	509
+the	Word	--	Terminal	510
+sun	Word	--	Terminal	511
+...	Punctuation	--	Terminal	512
+"	Punctuation	--	Terminal	513
+#500	PNCT	--	U	518
+#501	FN	--	L	518
+#502	FN	--	A	516
+#503	FN	--	F	516
+#504	FN	--	P	516	P*	517
+#505	FN	--	R	514
+#506	FN	--	F	514
+#507	FN	--	E	514
+#508	FN	--	C	514	T*	517
+#509	FN	--	L	518
+#510	FN	--	F	515
+#511	FN	--	C	515
+#512	PNCT	--	U	515
+#513	PNCT	--	U	515
+#514	FN	--	T	516
+#515	FN	--	A	517
+#516	FN	--	H	518
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 1722000

@@ -1,0 +1,22 @@
+#BOS 1770000
+Now	Word	--	Terminal	500
+my	Word	--	Terminal	501
+sorrow	Word	--	Terminal	502
+is	Word	--	Terminal	503
+comforted	Word	--	Terminal	504
+a	Word	--	Terminal	505
+little	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	T	510
+#501	FN	--	A	508
+#502	FN	--	S	508
+#503	FN	--	F	510
+#504	FN	--	S	510
+#505	FN	--	F	509
+#506	FN	--	C	509
+#507	PNCT	--	U	509
+#508	FN	--	A	510
+#509	FN	--	D	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 1770000

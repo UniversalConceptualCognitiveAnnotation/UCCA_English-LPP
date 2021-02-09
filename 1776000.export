@@ -1,0 +1,23 @@
+#BOS 1776000
+"	Punctuation	--	Terminal	500
+It	Word	--	Terminal	501
+is	Word	--	Terminal	502
+too	Word	--	Terminal	503
+heavy	Word	--	Terminal	504
+for	Word	--	Terminal	505
+you	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+"	Punctuation	--	Terminal	508
+#500	PNCT	--	U	510
+#501	FN	--	A	510
+#502	FN	--	F	510
+#503	FN	--	D	510
+#504	FN	--	S	510
+#505	FN	--	R	509
+#506	FN	--	C	509
+#507	PNCT	--	U	509
+#508	PNCT	--	U	509
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 1776000

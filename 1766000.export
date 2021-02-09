@@ -1,0 +1,21 @@
+#BOS 1766000
+There	Word	--	Terminal	500
+are	Word	--	Terminal	501
+no	Word	--	Terminal	502
+people	Word	--	Terminal	503
+in	Word	--	Terminal	504
+the	Word	--	Terminal	505
+desert	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	F	509
+#501	FN	--	F	509
+#502	FN	--	D	509
+#503	FN	--	A	509
+#504	FN	--	S	509
+#505	FN	--	F	508
+#506	FN	--	C	508
+#507	PNCT	--	U	508
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 1766000

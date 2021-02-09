@@ -1,0 +1,24 @@
+#BOS 1750000
+So	Word	--	Terminal	500
+then	Word	--	Terminal	501
+the	Word	--	Terminal	502
+seventh	Word	--	Terminal	503
+planet	Word	--	Terminal	504
+was	Word	--	Terminal	505
+the	Word	--	Terminal	506
+Earth	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	L	512
+#501	FN	--	L	512
+#502	FN	--	F	509
+#503	FN	--	Q	509
+#504	FN	--	C	509
+#505	FN	--	S	511
+#506	FN	--	F	510
+#507	FN	--	C	510
+#508	PNCT	--	U	510
+#509	FN	--	A	511
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 1750000

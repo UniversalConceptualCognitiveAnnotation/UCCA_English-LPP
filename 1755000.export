@@ -1,0 +1,32 @@
+#BOS 1755000
+"	Punctuation	--	Terminal	500
+Men	Word	--	Terminal	501
+have	Word	--	Terminal	502
+forgotten	Word	--	Terminal	503
+this	Word	--	Terminal	504
+truth	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+"	Punctuation	--	Terminal	507
+said	Word	--	Terminal	508
+the	Word	--	Terminal	509
+fox	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	PNCT	--	U	516
+#501	FN	--	A	515
+#502	FN	--	F	515
+#503	FN	--	S	515
+#504	FN	--	E	512
+#505	FN	--	C	512
+#506	PNCT	--	U	516
+#507	PNCT	--	U	516
+#508	FN	--	P	516
+#509	FN	--	F	513
+#510	FN	--	C	513
+#511	PNCT	--	U	513
+#512	FN	--	S	514
+#513	FN	--	A	516
+#514	FN	--	A	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 1755000

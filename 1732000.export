@@ -1,0 +1,32 @@
+#BOS 1732000
+Then	Word	--	Terminal	500
+one	Word	--	Terminal	501
+morning	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+exactly	Word	--	Terminal	504
+at	Word	--	Terminal	505
+sunrise	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+she	Word	--	Terminal	508
+suddenly	Word	--	Terminal	509
+showed	Word	--	Terminal	510
+herself	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	L	516
+#501	FN	--	E	512
+#502	FN	--	C	512
+#503	PNCT	--	U	516
+#504	FN	--	E	513
+#505	FN	--	C	513
+#506	FN	--	P	514
+#507	PNCT	--	U	516
+#508	FN	--	A	515
+#509	FN	--	T	515
+#510	FN	--	P	515
+#511	PNCT	--	U	515
+#512	FN	--	T	515
+#513	FN	--	L	516
+#514	FN	--	H	516
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 1732000

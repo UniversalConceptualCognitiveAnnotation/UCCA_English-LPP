@@ -1,0 +1,24 @@
+#BOS 1768000
+So	Word	--	Terminal	500
+the	Word	--	Terminal	501
+little	Word	--	Terminal	502
+prince	Word	--	Terminal	503
+tamed	Word	--	Terminal	504
+the	Word	--	Terminal	505
+fox	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	L	513
+#501	FN	--	F	511
+#502	FN	--	S	510
+#503	FN	--	S	508
+#504	FN	--	P	512
+#505	FN	--	F	509
+#506	FN	--	C	509
+#507	PNCT	--	U	509
+#508	FN	--	C	511	A*	510
+#509	FN	--	A	512
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 1768000

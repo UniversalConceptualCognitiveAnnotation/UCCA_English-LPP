@@ -1,0 +1,39 @@
+#BOS 1716000
+But	Word	--	Terminal	500
+on	Word	--	Terminal	501
+this	Word	--	Terminal	502
+last	Word	--	Terminal	503
+morning	Word	--	Terminal	504
+all	Word	--	Terminal	505
+these	Word	--	Terminal	506
+familiar	Word	--	Terminal	507
+tasks	Word	--	Terminal	508
+seemed	Word	--	Terminal	509
+very	Word	--	Terminal	510
+precious	Word	--	Terminal	511
+to	Word	--	Terminal	512
+him	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	L	521
+#501	FN	--	R	515
+#502	FN	--	E	515
+#503	FN	--	Q	515
+#504	FN	--	C	515
+#505	FN	--	Q	519
+#506	FN	--	E	519
+#507	FN	--	S	518
+#508	FN	--	P	516
+#509	FN	--	G	520
+#510	FN	--	D	520
+#511	FN	--	S	520
+#512	FN	--	R	517
+#513	FN	--	C	517
+#514	PNCT	--	U	517
+#515	FN	--	T	520
+#516	FN	--	C	519	A*	518
+#517	FN	--	A	520
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 1716000

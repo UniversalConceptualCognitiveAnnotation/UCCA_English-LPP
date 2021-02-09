@@ -1,0 +1,20 @@
+#BOS 1789000
+"	Punctuation	--	Terminal	500
+I	Word	--	Terminal	501
+shall	Word	--	Terminal	502
+not	Word	--	Terminal	503
+leave	Word	--	Terminal	504
+you	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+"	Punctuation	--	Terminal	507
+#500	PNCT	--	U	508
+#501	FN	--	A	508
+#502	FN	--	D	508
+#503	FN	--	D	508
+#504	FN	--	P	508
+#505	FN	--	A	508
+#506	PNCT	--	U	508
+#507	PNCT	--	U	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 1789000

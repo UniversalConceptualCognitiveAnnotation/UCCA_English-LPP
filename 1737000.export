@@ -1,0 +1,32 @@
+#BOS 1737000
+For	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+to	Word	--	Terminal	502
+conceited	Word	--	Terminal	503
+men	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+all	Word	--	Terminal	506
+other	Word	--	Terminal	507
+men	Word	--	Terminal	508
+are	Word	--	Terminal	509
+admirers	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	L	517
+#501	PNCT	--	U	517
+#502	FN	--	S	516
+#503	FN	--	S	512
+#504	FN	--	C	513	A*	512
+#505	PNCT	--	U	516
+#506	FN	--	Q	514
+#507	FN	--	E	514
+#508	FN	--	C	514
+#509	FN	--	F	515
+#510	FN	--	S	515
+#511	PNCT	--	U	515
+#512	FN	--	E	513
+#513	FN	--	A	516
+#514	FN	--	A	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 1737000

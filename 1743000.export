@@ -1,0 +1,26 @@
+#BOS 1743000
+"	Punctuation	--	Terminal	500
+Because	Word	--	Terminal	501
+I	Word	--	Terminal	502
+am	Word	--	Terminal	503
+about	Word	--	Terminal	504
+to	Word	--	Terminal	504
+die	Word	--	Terminal	505
+of	Word	--	Terminal	506
+thirst	Word	--	Terminal	507
+...	Punctuation	--	Terminal	508
+"	Punctuation	--	Terminal	509
+#500	PNCT	--	U	512
+#501	FN	--	L	512
+#502	FN	--	A	510	A*	511
+#503	FN	--	F	510
+#504	FN	--	D	510
+#505	FN	--	P	510
+#506	FN	--	L	512
+#507	FN	--	S	511
+#508	PNCT	--	U	511
+#509	PNCT	--	U	511
+#510	FN	--	H	512
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 1743000

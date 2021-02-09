@@ -1,0 +1,28 @@
+#BOS 1733000
+But	Word	--	Terminal	500
+you	Word	--	Terminal	501
+are	Word	--	Terminal	502
+of	Word	--	Terminal	503
+no	Word	--	Terminal	504
+use	Word	--	Terminal	505
+to	Word	--	Terminal	506
+the	Word	--	Terminal	507
+stars	Word	--	Terminal	508
+...	Punctuation	--	Terminal	509
+"	Punctuation	--	Terminal	510
+#500	FN	--	L	514
+#501	FN	--	A	513
+#502	FN	--	F	513
+#503	FN	--	R	511
+#504	FN	--	D	513
+#505	FN	--	C	511
+#506	FN	--	R	512
+#507	FN	--	F	512
+#508	FN	--	C	512
+#509	PNCT	--	U	512
+#510	PNCT	--	U	512
+#511	FN	--	S	513
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 1733000

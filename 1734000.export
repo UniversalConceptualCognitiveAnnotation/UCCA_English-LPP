@@ -1,0 +1,34 @@
+#BOS 1734000
+And	Word	--	Terminal	500
+the	Word	--	Terminal	501
+little	Word	--	Terminal	502
+prince	Word	--	Terminal	503
+went	Word	--	Terminal	504
+away	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+thinking	Word	--	Terminal	507
+of	Word	--	Terminal	508
+his	Word	--	Terminal	509
+flower	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	L	519
+#501	FN	--	F	517
+#502	FN	--	S	516
+#503	FN	--	S	512	A*	515
+#504	FN	--	P	518
+#505	FN	--	D	518
+#506	PNCT	--	U	519
+#507	FN	--	P	515
+#508	FN	--	R	514
+#509	FN	--	S	513
+#510	FN	--	C	514	A*	513
+#511	PNCT	--	U	514
+#512	FN	--	C	517	A*	516
+#513	FN	--	E	514
+#514	FN	--	A	515
+#515	FN	--	H	519
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 1734000

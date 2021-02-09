@@ -1,0 +1,27 @@
+#BOS 1744000
+Yet	Word	--	Terminal	500
+through	Word	--	Terminal	501
+the	Word	--	Terminal	502
+silence	Word	--	Terminal	503
+something	Word	--	Terminal	504
+throbs	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+and	Word	--	Terminal	507
+gleams	Word	--	Terminal	508
+...	Punctuation	--	Terminal	509
+#500	FN	--	L	514
+#501	FN	--	L	514
+#502	FN	--	F	510
+#503	FN	--	C	510
+#504	FN	--	A	511	A*	512
+#505	FN	--	S	511
+#506	PNCT	--	U	514
+#507	FN	--	L	514
+#508	FN	--	S	512
+#509	PNCT	--	U	512
+#510	FN	--	S	513
+#511	FN	--	H	514
+#512	FN	--	H	514
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 1744000

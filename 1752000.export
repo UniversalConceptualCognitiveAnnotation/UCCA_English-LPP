@@ -1,0 +1,25 @@
+#BOS 1752000
+They	Word	--	Terminal	500
+adore	Word	--	Terminal	501
+figures	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+and	Word	--	Terminal	504
+that	Word	--	Terminal	505
+will	Word	--	Terminal	506
+please	Word	--	Terminal	507
+them	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	510
+#501	FN	--	S	510
+#502	FN	--	A	510
+#503	PNCT	--	U	512
+#504	FN	--	L	512
+#505	FN	--	A	511
+#506	FN	--	F	511
+#507	FN	--	S	511
+#508	FN	--	A	511
+#509	PNCT	--	U	511
+#510	FN	--	H	512
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 1752000

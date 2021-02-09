@@ -1,0 +1,52 @@
+#BOS 1704000
+If	Word	--	Terminal	500
+you	Word	--	Terminal	501
+ordered	Word	--	Terminal	502
+your	Word	--	Terminal	503
+people	Word	--	Terminal	504
+to	Word	--	Terminal	505
+go	Word	--	Terminal	506
+and	Word	--	Terminal	507
+throw	Word	--	Terminal	508
+themselves	Word	--	Terminal	508
+into	Word	--	Terminal	509
+the	Word	--	Terminal	510
+sea	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+they	Word	--	Terminal	513
+would	Word	--	Terminal	514
+rise	Word	--	Terminal	515
+up	Word	--	Terminal	515
+in	Word	--	Terminal	516
+revolution	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	L	528
+#501	FN	--	A	527
+#502	FN	--	P	527
+#503	FN	--	S	519
+#504	FN	--	C	520	A*	524	A*	525	A*	519
+#505	FN	--	F	524
+#506	FN	--	P	524
+#507	FN	--	L	526
+#508	FN	--	P	525
+#509	FN	--	R	521
+#510	FN	--	F	521
+#511	FN	--	C	521
+#512	PNCT	--	U	528
+#513	FN	--	A	523
+#514	FN	--	D	523
+#515	FN	--	D	523
+#516	FN	--	R	522
+#517	FN	--	C	522
+#518	PNCT	--	U	522
+#519	FN	--	E	520
+#520	FN	--	A	527
+#521	FN	--	A	524	A*	525
+#522	FN	--	P	523
+#523	FN	--	H	528
+#524	FN	--	H	526
+#525	FN	--	H	526
+#526	FN	--	A	527
+#527	FN	--	H	528
+#528	FN	--	--	0
+#EOS 1704000

@@ -1,0 +1,59 @@
+#BOS 1702000
+I	Word	--	Terminal	500
+reached	Word	--	Terminal	501
+the	Word	--	Terminal	502
+wall	Word	--	Terminal	503
+just	Word	--	Terminal	504
+in	Word	--	Terminal	505
+time	Word	--	Terminal	505
+to	Word	--	Terminal	506
+catch	Word	--	Terminal	507
+my	Word	--	Terminal	508
+little	Word	--	Terminal	509
+man	Word	--	Terminal	510
+in	Word	--	Terminal	511
+my	Word	--	Terminal	512
+arms	Word	--	Terminal	513
+;	Punctuation	--	Terminal	514
+his	Word	--	Terminal	515
+face	Word	--	Terminal	516
+was	Word	--	Terminal	517
+white	Word	--	Terminal	518
+as	Word	--	Terminal	519
+snow	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	A	531	A*	532
+#501	FN	--	P	531
+#502	FN	--	F	522
+#503	FN	--	C	522
+#504	FN	--	E	523
+#505	FN	--	C	523
+#506	FN	--	L	533
+#507	FN	--	P	532
+#508	FN	--	S	524
+#509	FN	--	S	525
+#510	FN	--	C	526	A*	524	A*	525
+#511	FN	--	R	527
+#512	FN	--	E	527
+#513	FN	--	C	527
+#514	PNCT	--	U	533
+#515	FN	--	E	528
+#516	FN	--	C	528
+#517	FN	--	F	529
+#518	FN	--	S	529	S*	530
+#519	FN	--	L	533
+#520	FN	--	A	530
+#521	PNCT	--	U	530
+#522	FN	--	A	531
+#523	FN	--	T	531
+#524	FN	--	E	526
+#525	FN	--	E	526
+#526	FN	--	A	532
+#527	FN	--	A	532
+#528	FN	--	A	529
+#529	FN	--	H	533
+#530	FN	--	H	533
+#531	FN	--	H	533
+#532	FN	--	H	533
+#533	FN	--	--	0
+#EOS 1702000

@@ -1,0 +1,34 @@
+#BOS 1741000
+"	Punctuation	--	Terminal	500
+I	Word	--	Terminal	501
+am	Word	--	Terminal	502
+beginning	Word	--	Terminal	503
+to	Word	--	Terminal	504
+understand	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+"	Punctuation	--	Terminal	507
+said	Word	--	Terminal	508
+the	Word	--	Terminal	509
+little	Word	--	Terminal	510
+prince	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	PNCT	--	U	517
+#501	FN	--	A	513
+#502	FN	--	F	513
+#503	FN	--	D	513
+#504	FN	--	F	513
+#505	FN	--	P	513
+#506	PNCT	--	U	517
+#507	PNCT	--	U	517
+#508	FN	--	P	517
+#509	FN	--	F	516
+#510	FN	--	S	515
+#511	FN	--	S	514
+#512	PNCT	--	U	514
+#513	FN	--	A	517
+#514	FN	--	C	516	A*	515
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 1741000
