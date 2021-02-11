@@ -9,7 +9,7 @@ The total number of tokens in this corpus is 1312.
 
 Corpus:
 -------
-The English corpus used here is the book "The Little Prince" (Le Petit Prince), a classic novel written in French by Antoine de Saint-Exupéry, and first published in 1943.
+The English corpus used here is the book "The Little Prince" (Le Petit Prince), a classic novel written in French by Antoine de Saint-Exupéry, and first published in 1943. This is the same text as was used in the AMR Little Prince corpus in English (https://amr.isi.edu/download.html).
 
 
 Format and Source Code:
